@@ -16,11 +16,7 @@ My GitHub page is http://github.com/AxelD2005.
     goal was to make a program tha determined whether street parking is allowed
     on that specific street using the images. After struggling and breaking the
     code multiple times, I learned how to build functions and familiarized myself 
-    with using if-statements in C++. I will include a sample image of the signs
-    used in this code below!
-
-    ![sample images of one of the signs](ASH_STREET/sign_ash.jpg)
-    ![the other sample image](BEECH_STREET/sign_beech.jpg)
+    with using if-statements in C++.
 
 * Lab 10
 
@@ -42,4 +38,4 @@ My GitHub page is http://github.com/AxelD2005.
     generating random numbers. It also refined my knowledge on nested for-loops. I will
     include a GIF created by this project below!
     
-    ![GIF created by this Project!](images/sample_image.gif)
+    
