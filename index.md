@@ -17,7 +17,7 @@ My GitHub page is http://github.com/AxelD2005.
     on that specific street using the images. After struggling and breaking the
     code multiple times, I learned how to build functions and familiarized myself 
     with using if-statements in C++. I will include a sample image of the signs
-    used in this code!
+    used in this code below!
 
 * Lab 10
 
@@ -37,4 +37,6 @@ My GitHub page is http://github.com/AxelD2005.
     themed GIF. On top of this, we would implement a user defined message in a massive yellow
     text. This project taught me the use of the Mersenne Twister Engine and it's purpose of
     generating random numbers. It also refined my knowledge on nested for-loops. I will
-    include a sample image of this project!
+    include an image created by this project below!
+    
+    ![]
