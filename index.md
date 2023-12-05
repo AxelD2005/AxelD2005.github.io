@@ -19,7 +19,8 @@ My GitHub page is http://github.com/AxelD2005.
     with using if-statements in C++. I will include a sample image of the signs
     used in this code below!
 
-    ![sample images of the signs](images/ASH_STREET)(images/BEECH_STREET)
+    ![sample images of one of the signs](images/ASH_STREET.jpg)
+    ![the other sample image](images/BEECH_STREET.jpg)
 
 * Lab 10
 
