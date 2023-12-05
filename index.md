@@ -37,6 +37,6 @@ My GitHub page is http://github.com/AxelD2005.
     themed GIF. On top of this, we would implement a user defined message in a massive yellow
     text. This project taught me the use of the Mersenne Twister Engine and it's purpose of
     generating random numbers. It also refined my knowledge on nested for-loops. I will
-    include an image created by this project below!
+    include a GIF created by this project below!
     
-    ![]
+    ![GIF created by this Project!](images/sample_image.gif)
