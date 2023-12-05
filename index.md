@@ -18,6 +18,8 @@ My GitHub page is http://github.com/AxelD2005.
     code multiple times, I learned how to build functions and familiarized myself 
     with using if-statements in C++.
 
+    I will include images below that instructors wanted us to use to build this program!
+
     ![Sign Ash](sign_ash_copy.jpg)
 
     ![Sign Beech](sign_beech_copy.jpg)
@@ -41,7 +43,8 @@ My GitHub page is http://github.com/AxelD2005.
     a GIF that was constructed from many different images. This created a "background noise"
     themed GIF. On top of this, we would implement a user defined message in a massive yellow
     text. This project taught me the use of the Mersenne Twister Engine and it's purpose of
-    generating random numbers. It also refined my knowledge on nested for-loops. I will
-    include a GIF created by this project below!
+    generating random numbers. It also refined my knowledge on nested for-loops. 
+    
+    I will include a GIF created by this project below!
 
     ![Lab 12 GIF](optimized.gif)
