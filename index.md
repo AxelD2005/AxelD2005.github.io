@@ -19,6 +19,8 @@ My GitHub page is http://github.com/AxelD2005.
     with using if-statements in C++. I will include a sample image of the signs
     used in this code below!
 
+    ![sample images of the signs](images/ASH_STREET)(images/BEECH_STREET)
+
 * Lab 10
 
     Lab 10 (Part-2) was a new experience to me, since I was learning a bit of Java
