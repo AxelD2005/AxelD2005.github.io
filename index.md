@@ -37,5 +37,5 @@ My GitHub page is http://github.com/AxelD2005.
     text. This project taught me the use of the Mersenne Twister Engine and it's purpose of
     generating random numbers. It also refined my knowledge on nested for-loops. I will
     include a GIF created by this project below!
-    
-    
+
+    ![Lab 12 GIF](optimized.gif)
