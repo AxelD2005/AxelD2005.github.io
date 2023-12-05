@@ -18,6 +18,12 @@ My GitHub page is http://github.com/AxelD2005.
     code multiple times, I learned how to build functions and familiarized myself 
     with using if-statements in C++.
 
+    ![Sign Ash](sign_ash_copy.jpg)
+
+    ![Sign Beech](sign_beech_copy.jpg)
+
+    ![Sign Cedar](sign_cedar_copy.jpg)
+
 * Lab 10
 
     Lab 10 (Part-2) was a new experience to me, since I was learning a bit of Java
